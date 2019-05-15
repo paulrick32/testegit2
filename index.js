@@ -8,7 +8,7 @@ app.get('/', (req,res) => {
 
 
 app.get('/ola', (req,res) => { 
-    res.status(200).send({message:'torio'})
+    res.status(200).send({message:'22222'})
 })
 
 app.listen(4001, () => {
